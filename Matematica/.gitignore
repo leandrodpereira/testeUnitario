@@ -1,0 +1,30 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de compilação
+*.jar
+*.war
+*.ear
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do Eclipse
+.settings/
+bin/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Arquivos de saída do Maven
+target/
+
+# Arquivos gerados pelo Gradle
+build/
+
+# Dependências
+.gradle/
+

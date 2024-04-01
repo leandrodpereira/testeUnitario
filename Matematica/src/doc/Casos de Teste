@@ -1,0 +1,24 @@
+Notação: (P; S(P))
+
+maior:
+
+T0 = (10,20; 20)
+
+isPositivo:
+
+T0 = (-5; false) 
+T1 = (10; true) *
+
+soma:
+
+T0 = (3.6, 9.6; 13.2)
+
+divisao:
+
+T0 = (5, 2; 2.5)
+T1 = (34, 0; 'Error')
+
+parImpar:
+
+T0 = (4; 'Par')
+T1 = (5; 'Impar') 
